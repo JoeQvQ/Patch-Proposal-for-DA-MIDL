@@ -6,16 +6,7 @@
 > 
 > 官方代码：https://github.com/WyZhuNUAA/DA-MIDL
 >
-> 论文：@article{zhu2021dual,
-  title={Dual attention multi-instance deep learning for Alzheimer’s disease diagnosis with structural MRI},
-  author={Zhu, Wenyong and Sun, Liang and Huang, Jiashuang and Han, Liangxiu and Zhang, Daoqiang},
-  journal={IEEE Transactions on Medical Imaging},
-  volume={40},
-  number={9},
-  pages={2354--2366},
-  year={2021},
-  publisher={IEEE}
-}
+> 论文：Dual attention multi-instance deep learning for Alzheimer’s disease diagnosis with structural MRI
 
 ## 运行步骤
 1.运行官方代码datasplit.py获得data.mat文件
