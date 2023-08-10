@@ -2,7 +2,7 @@
 
 > Unofficial Implemention for DA-MIDL's Patch Proposal
 > 
-> 此项目为Patch提议文件(DA-MIDL)的非官方复现版本，如有问题欢迎指正交流！(Email:3229075390@qq.com)
+> 此项目为Patch提议文件(DA-MIDL)的非官方复现版本，如有问题欢迎指正交流！(Email：3229075390@qq.com)
 > 
 > 官方代码：https://github.com/WyZhuNUAA/DA-MIDL
 >
