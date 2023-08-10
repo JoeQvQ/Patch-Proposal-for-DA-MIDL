@@ -1,6 +1,6 @@
 # Patch-Proposal-for-DA-MIDL
 
-> Unofficial Implemention for DA-MIDL's Patch
+> Unofficial Implemention for DA-MIDL's Patch Proposal
 > 
 > 此项目为Patch提议文件(DA-MIDL)的非官方复现版本，如有问题欢迎指正交流！
 > 
